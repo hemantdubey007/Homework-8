@@ -1,0 +1,19 @@
+.container{
+    width: 30%;
+    height: 20px;
+    border-radius: 0.600rem;
+    box-shadow: 0 0 2px 2px #c4c3c3;
+    position: relative;
+}
+
+.container-fill{
+    background-color: #26831d;
+    height: 100%;
+    border-radius: 0.625rem;
+}
+
+.label{
+    position: absolute;
+    top: 0;
+    left: 48%;
+}

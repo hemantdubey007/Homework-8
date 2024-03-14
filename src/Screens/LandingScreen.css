@@ -1,0 +1,17 @@
+
+#container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    color: rgb(180, 156, 20);
+}
+
+.start{
+    padding: 10px 35px;
+    background-color: #cc0707;
+    color: #ffffff;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
